@@ -1,6 +1,6 @@
 #JS中令人迷惑的prototype,__proto__，constructor
-following the guide of the github to creat a new github
-是对自己查阅资料的一个总结，可能有不足之处。欢迎转载，请注明出处。
+
+
 
 prototype
 prototype属性在javascript中是函数独有的。为什么要设置这个属性，看完下文阮一峰的追根溯源之后，应该会有了解。
